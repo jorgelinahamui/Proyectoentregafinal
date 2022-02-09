@@ -79,7 +79,7 @@ a.nav-link:hover {
 
 }
 .footer {
-    background-color:#cc9977a8;
+    background: #0001;
     display: flex;
     margin-top: 1rem;
     padding: 0.5rem 0 1rem 0;  
@@ -147,6 +147,8 @@ a.nav-link:hover {
 
 /*Contacto*/
 .contactofondo {
+    margin: 1.5rem;
+    padding: 1rem;
     background:linear-gradient(to top, #74d1d1, #e6bfd4);
 }
 
